@@ -1,0 +1,9 @@
+siriushq/openbsd_ports
+======================
+
+This repository hosts a mirror of the ports source code, available in
+the `upstream` branch, retrieved from the official Git mirror of the
+CVS repository, tracking `trunk`.  There are several guides for
+developers and users, the formatted guide is available at:
+
+	https://man.openbsd.org/ports
